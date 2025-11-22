@@ -3,6 +3,10 @@
 A streamlined Windows image deployment utility that simplifies capturing, servicing, and deploying Windows images with an intuitive Python-powered workflow. Designed for IT administrators, lab/classroom environments, and systems engineers who need a reliable and repeatable way to prepare, customize, and deploy Windows at scale.
 
 
+## Links
+- GitHub repository: https://github.com/Hasnain1385/Windows-Image-Deployer
+- YouTube channel: https://www.youtube.com/channel/UCFLQuLM-EcOm7r8ZtvITfKA?sub_confirmation=1
+
 ## Key Features
 - Automated deployment workflows driven by Python tasks
 - Clean separation of concerns across modules: app, system, tasks
@@ -38,8 +42,8 @@ A streamlined Windows image deployment utility that simplifies capturing, servic
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-org/WindowsDeploy.git
-   cd WindowsDeploy
+   git clone https://github.com/Hasnain1385/Windows-Image-Deployer
+   cd Windows-Image-Deployer
 
 2. (Recommended) Create and activate a virtual environment:
    python -m venv .venv
