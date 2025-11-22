@@ -25,8 +25,6 @@ A streamlined Windows image deployment utility that simplifies capturing, servic
 │  └─ tasks.py         # Deployment and maintenance tasks
 ├─ assets/
 │  └─ icon.ico         # App icon used for packaged builds
-├─ Resources/
-│  └─ Windows Image Deployment - Mirza Hasnain Baig.spec  # Packaging spec
 ├─ launcher.py         # Convenience launcher
 ├─ requirements.txt    # Python dependencies
 └─ README.md
