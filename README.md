@@ -7,6 +7,10 @@ A streamlined Windows image deployment utility that simplifies capturing, servic
 - GitHub repository: https://github.com/Hasnain1385/Windows-Image-Deployer
 - YouTube channel: https://www.youtube.com/channel/UCFLQuLM-EcOm7r8ZtvITfKA?sub_confirmation=1
 
+## Screenshoot
+<img src="assets/Main.png" alt="Editor preview" width="700" />
+
+
 ## Key Features
 - Automated deployment workflows driven by Python tasks
 - Clean separation of concerns across modules: app, system, tasks
